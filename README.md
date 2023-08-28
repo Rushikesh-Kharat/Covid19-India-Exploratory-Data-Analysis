@@ -38,4 +38,8 @@ A KPI, or Key Performance Indicator, is a measurable value that helps assess how
 <br/>
 # Key Findings of the analysis
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/292fdb4d-752c-4f9e-aaeb-2e33c07068c6)
+<br/>
+# Visualisations using a Dashboard
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fe8b70b8-cdb9-4749-8015-3060eb4f7e42)
 
+# Conclusions
