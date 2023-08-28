@@ -47,8 +47,6 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/3a77cbfd-2c71-41cd-9c73-753b2128e404) 
 <br />
 
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/1d0c77c1-b99a-4e7f-ac93-8448ff38bd46) 
-<br />
 
 #### *A KPI, or Key Performance Indicator, is a measurable value that helps assess how effectively an organization or individual is achieving important goals. KPIs provide insights into performance, guiding decisions and improvements by offering quantifiable information on various aspects of success. * 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/7387c7d2-cbcd-4767-8fd1-56f4dcc9d01a)
