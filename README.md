@@ -25,14 +25,21 @@ The Requests module is a Python library used for making HTTP requests. This modu
 
 * Data cleaning typically involves removing irrelevant or duplicate data, handling missing values, and ensuring data consistency and integrity.
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/0ed8000f-5672-421a-a17c-e62d7fc678a6)
+<br/>
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/7f9cff4a-d3ee-4842-8e6a-2d9a1e2d2f49)
+<br/>
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/d88c779d-b45e-4884-af25-99a78eb82fdb)
+<br/>
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/3a77cbfd-2c71-41cd-9c73-753b2128e404)
+<br/>
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/1d0c77c1-b99a-4e7f-ac93-8448ff38bd46)
+<br/>
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/27f14592-83aa-4234-86c7-db8754ee7565)
-
+<br/>
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/086204ef-8e4c-41de-be38-38adb3a26d46)
 <br/>
 A KPI, or Key Performance Indicator, is a measurable value that helps assess how effectively an organization or individual is achieving important goals. KPIs provide insights into performance, guiding decisions and improvements by offering quantifiable information on various aspects of success.
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/50c3a28b-c106-425d-a3dc-a55c8084c7aa)
 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/7387c7d2-cbcd-4767-8fd1-56f4dcc9d01a)
 <br/>
