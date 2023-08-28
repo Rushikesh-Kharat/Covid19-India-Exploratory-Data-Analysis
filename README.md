@@ -29,11 +29,16 @@ An API is used to fetch data related to Covid19.
 3. Requests module to retrieve data from online sources(API).
 4. Microsoft Excel for data visualisation and analysis.
 * The data was in JSON format, using Pandas and Python, data is converted to a dataframe. Then Data Cleaning was performed on the dataframe object. *
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/03a74cec-1fb5-4aca-902f-321d1208eba4) 
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/03a74cec-1fb5-4aca-902f-321d1208eba4)
+
  <br /> 
+ 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/48891ea9-7ef5-440c-b841-c8634891ace8) 
+
  <br /> 
+ 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/2605714d-6665-4edc-9683-160099e30d3a) 
+
  <br /> 
 
 Data is then categorized as State-wise, District-wise data and based on timeline.
