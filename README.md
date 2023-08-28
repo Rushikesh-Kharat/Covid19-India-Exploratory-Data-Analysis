@@ -35,6 +35,7 @@ The Requests module is a Python library used for making HTTP requests. This modu
 A KPI, or Key Performance Indicator, is a measurable value that helps assess how effectively an organization or individual is achieving important goals. KPIs provide insights into performance, guiding decisions and improvements by offering quantifiable information on various aspects of success.
 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/7387c7d2-cbcd-4767-8fd1-56f4dcc9d01a)
-
-
+<br/>
+# Key Findings of the analysis
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/292fdb4d-752c-4f9e-aaeb-2e33c07068c6)
 
