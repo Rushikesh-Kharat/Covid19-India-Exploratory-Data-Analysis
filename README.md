@@ -24,6 +24,7 @@
 ### **DATA COLLECTION AND PRE-PROCESSING**
 The data collection and preprocessing phase of the project involves gathering relevant data on COVID-19 in India and preparing it for analysis.
 An API is used to fetch data related to Covid19. 
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/f8848f61-b9ca-4604-bec2-318efd701460)
 
 <br /> 
 
