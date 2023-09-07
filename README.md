@@ -49,7 +49,12 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/e42afd08-adb0-43b1-b9d7-dcce4b3b32a6)
 
+ <br /> 
+
 **Data cleaning typically involves removing irrelevant or duplicate data, handling missing values, and ensuring data consistency and integrity.**
+
+ <br /> 
+
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/20608d8a-15ee-4078-847f-8837acb48caf)
 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/ad40521f-c64f-47bc-bd55-4e826d2e359e)
