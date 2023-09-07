@@ -35,7 +35,8 @@ An API is used to fetch data related to Covid19.
 
 * The data was in JSON format, using Pandas and Python, data is converted to a dataframe. Then Data Cleaning was performed on the dataframe object. *
 Data is then categorized as State-wise, District-wise data and based on timeline.
-![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/006fdeea-60f4-4788-809b-704419f02f3c)
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/215ff827-9007-40b5-8173-1696a3fdde55)
+
 
 
  <br /> 
