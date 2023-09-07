@@ -54,7 +54,7 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
  <br /> 
 
-** - Data cleaning - It typically involves removing irrelevant or duplicate data, handling missing values, and ensuring data consistency and integrity.**
+**Data cleaning - It typically involves removing irrelevant or duplicate data, handling missing values, and ensuring data consistency and integrity.**
 
  <br /> 
 
