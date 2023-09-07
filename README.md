@@ -48,6 +48,8 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
 * Data cleaning typically involves removing irrelevant or duplicate data, handling missing values, and ensuring data consistency and integrity.
 
+![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/e42afd08-adb0-43b1-b9d7-dcce4b3b32a6)
+
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/6c287826-fc7f-493c-9bdd-58f140bb4f74)
  
 <br />
