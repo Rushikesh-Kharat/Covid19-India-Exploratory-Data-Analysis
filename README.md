@@ -1,4 +1,4 @@
-# COVID-19 India Data Analysis
+# Covid-19 India Data Analysis
 
 ### **INTRODUCTION**
 
