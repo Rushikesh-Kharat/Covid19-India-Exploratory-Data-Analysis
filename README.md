@@ -47,7 +47,7 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
  <br /> 
 
-## **Stored data into CSV files:**
+## **Data Transformation including flattening of the data:**
 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fb4d510d-44fa-4205-87cd-1df63ec70a6c)
 
