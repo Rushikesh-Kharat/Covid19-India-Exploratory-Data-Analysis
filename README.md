@@ -102,8 +102,6 @@ Obtaining the initial data from the web posed several challenges. Some of the is
 
 - **Website Structure**: The target website frequently changed its structure, which required constant adjustments to the scraping code.
 
-- **Rate Limiting**: To avoid getting blocked, we had to implement rate limiting and proxy rotation strategies.
-
 ### 2. Data Transformation
 
 Converting the scraped data, which was in JSON format, into the required dataframes and CSV files was another challenge. Key challenges in this phase included:
