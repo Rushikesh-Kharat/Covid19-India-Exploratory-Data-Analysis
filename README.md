@@ -3,9 +3,6 @@
 <br />
 
 
-<br />
-
-
 ### **INTRODUCTION**
 
 #### This project is a data analysis project on COVID-19 in India. It aims to provide insights into the patterns and trends of the pandemic in India and identify potential implications for different sectors, such as healthcare, retail, travel, and investment. The goal of the project is to help organizations make informed decisions by leveraging data-driven insights and evidence-based strategies. 
