@@ -9,6 +9,9 @@
 
 <br />
 
+<br />
+
+
 ### **TABLE OF CONTENTS**
 
 | Files/Folder | Description |
@@ -17,6 +20,9 @@
 | Excel File Dashboard    | This folder contains Dashboard file     |
 | Jupyter Notebook Files | This folder contains Jupyter notebook file & Web driver used for Web scraping   |
 | Presentation | This is a powerpoint presentation file that contains all major insights and conclusion |
+
+
+<br />
 
 
 <br />
@@ -77,16 +83,26 @@ Data is then categorized as State-wise, District-wise data and based on timeline
  
 <br />
 
+<br />
+
+
 ### **KEY PERFORMANCE INDICATORS**
 **A KPI, or Key Performance Indicator, is a measurable value that helps assess how effectively an organization or individual is achieving important goals. KPIs provide insights into performance, guiding decisions and improvements by offering quantifiable information on various aspects of success. ** 
 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/7387c7d2-cbcd-4767-8fd1-56f4dcc9d01a)
+
 <br />
+
+<br />
+
 
 ### **KEY FINDINGS**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/292fdb4d-752c-4f9e-aaeb-2e33c07068c6)
 
 <br />
+
+<br />
+
 
 ### **VISUAL REPRESENTATION AND ANALYSIS**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fe8b70b8-cdb9-4749-8015-3060eb4f7e42)
@@ -121,7 +137,16 @@ Cleaning the data was an essential step to ensure the accuracy and reliability o
 
 These challenges were overcome through collaboration, research, and iterative development. Documenting these obstacles and solutions here will help future contributors and developers understand the project's history and complexities.
 
+<br />
+
+
+<br />
+
+
 ### **CONCLUSION**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/8198805b-b6d8-4b11-8087-784fe9254957)
+
+<br />
+
 
 ##Thank You !
