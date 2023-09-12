@@ -79,5 +79,35 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 ### **VISUAL REPRESENTATION AND ANALYSIS**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fe8b70b8-cdb9-4749-8015-3060eb4f7e42)
 
+## Challenges Faced
+
+During the development of this project, several challenges were encountered, and here are some of the major ones:
+
+### 1. Data Scraping
+
+Obtaining the initial data from the web posed several challenges. Some of the issues faced during data scraping included:
+
+- **Website Structure**: The target website frequently changed its structure, which required constant adjustments to the scraping code.
+
+- **Rate Limiting**: To avoid getting blocked, we had to implement rate limiting and proxy rotation strategies.
+
+### 2. Data Transformation
+
+Converting the scraped data, which was in JSON format, into the required dataframes and CSV files was another challenge. Key challenges in this phase included:
+
+- **Data Structure**: The JSON data had a nested structure that needed to be flattened to fit into dataframes.
+
+- **Data Integration**: Merging data from multiple sources while maintaining data integrity required careful planning and coding.
+
+### 3. Data Cleaning
+
+Cleaning the data was an essential step to ensure the accuracy and reliability of the final dataset. Some of the challenges encountered in data cleaning were:
+
+- **Missing Values**: Dealing with missing values and deciding on appropriate imputation methods.
+
+- **Inconsistent Data**: Handling inconsistencies and errors in the data, such as typos and formatting issues.
+
+These challenges were overcome through collaboration, research, and iterative development. Documenting these obstacles and solutions here will help future contributors and developers understand the project's history and complexities.
+
 ### **CONCLUSION**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/8198805b-b6d8-4b11-8087-784fe9254957)
