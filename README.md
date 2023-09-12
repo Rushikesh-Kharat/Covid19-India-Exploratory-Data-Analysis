@@ -75,11 +75,15 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
 ### **KEY FINDINGS**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/292fdb4d-752c-4f9e-aaeb-2e33c07068c6)
+
 <br />
+
 ### **VISUAL REPRESENTATION AND ANALYSIS**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fe8b70b8-cdb9-4749-8015-3060eb4f7e42)
 
-## Challenges Faced
+<br />
+
+## CHALLENGES FACED
 
 During the development of this project, several challenges were encountered, and here are some of the major ones:
 
@@ -111,3 +115,5 @@ These challenges were overcome through collaboration, research, and iterative de
 
 ### **CONCLUSION**
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/8198805b-b6d8-4b11-8087-784fe9254957)
+
+##Thank You !
