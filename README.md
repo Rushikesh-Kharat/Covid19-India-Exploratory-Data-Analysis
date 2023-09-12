@@ -41,12 +41,13 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
  <br /> 
 
-#### - Data Scraping:
+## **Data Scraping:**
+
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/db65bbcc-054f-47ed-98a1-19c590966f90)
 
  <br /> 
 
-#### - Stored data into CSV files :
+## **Stored data into CSV files:**
 
 ![image](https://github.com/Rushikesh-Kharat/Covid19-India-Exploratory-Data-Analysis/assets/99657888/fb4d510d-44fa-4205-87cd-1df63ec70a6c)
 
@@ -54,7 +55,7 @@ Data is then categorized as State-wise, District-wise data and based on timeline
 
  <br /> 
 
-**Data cleaning - It typically involves removing irrelevant or duplicate data, handling missing values, and ensuring data consistency and integrity.**
+## **Data cleaning - It typically involves removing irrelevant or duplicate data, handling missing values, and ensuring data consistency and integrity.**
 
  <br /> 
  
