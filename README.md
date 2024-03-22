@@ -128,7 +128,7 @@ Converting the scraped data, which was in JSON format, into the required datafra
 
 - **Data Structure**: The JSON data had a nested structure that needed to be flattened to fit into dataframes.
 
-- **Data Integration**: Merging data from multiple sources while maintaining data integrity required careful planning and coding.
+- **Data Integration**: Merging data from multiple sources while maintaining data integrity requires careful planning and coding.
 
 ### 3. Data Cleaning
 
@@ -152,4 +152,4 @@ These challenges were overcome through collaboration, research, and iterative de
 <br />
 
 
-##Thank You !
+# Thank You!
